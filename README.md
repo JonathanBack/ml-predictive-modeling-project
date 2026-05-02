@@ -1,4 +1,4 @@
-# 🧬 Desafio de Bioinformática - Classificação de Sequências Proteicas
+# 🧬 Predictive Modeling with High-Dimensional Data
 
 Projeto de classificação binária de sequências de **proteínas** usando Machine Learning com features específicas de aminoácidos extraídas pela biblioteca MathFeature.
 
@@ -121,7 +121,7 @@ O notebook `03_modelagem.ipynb` gera automaticamente o arquivo `results/submissi
 - **MathFeature** - Extração de features de proteínas
 - **scikit-learn** - Modelos de ML e pipeline
 - **LightGBM, XGBoost, CatBoost** - Gradient boosting
-- **TensorFlow/Keras** - Deep learning (exploratório)
+- **TensorFlow/Keras** - Deep learning (exploratório/teste)
 - **pandas, numpy** - Manipulação de dados
 - **matplotlib, seaborn** - Visualizações
 
